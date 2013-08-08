@@ -1,4 +1,6 @@
-blog-jekyll
+Burstcreations.github.io
 ===========
 
-Ilya's blog based on Jekyll
+The web development blog of [Burstcreations][1].
+
+[1]: http://burstcreations.com
