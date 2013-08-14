@@ -49,6 +49,12 @@ ul.posts span {
   font-size: 80%;
 }
 
+ul.posts .comment-count {
+  padding: 0.5em;
+  background-color: #333;
+  color: #eee;
+}
+
 /*****************************************************************************/
 /*
 /* Site
